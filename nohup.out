@@ -1,0 +1,2 @@
+  File "get_data.py", line 4
+SyntaxError: Non-ASCII character '\xe4' in file get_data.py on line 4, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
