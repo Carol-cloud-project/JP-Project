@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your project:
-
----
-
 # Financial Data Prediction using Transformer and Llama3 Embeddings
 
 This repository contains code for predicting financial data using Transformer models and Llama3 embeddings. It is split into two parts: the first part involves using raw financial data, and the second part focuses on converting balance sheet data into text and applying Llama3 embeddings.
@@ -79,6 +75,3 @@ python transformer_main_concat.py
 - The Llama3 model requires authentication via HuggingFace’s private token. Make sure to request and add your token in the environment variables for the `get_embedding.py` script.
 - You can find the generated datasets (`df_X` and `df_y`) and model outputs in the GitHub repository for reference.
 
----
-
-Let me know if you need further customization for this!
